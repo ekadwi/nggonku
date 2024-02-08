@@ -1,14 +1,14 @@
 {
     "Ads": [
         {
-            "on_off_ads": "off",
+            "on_off_ads": "on",
             "banner_type": "off",
             "inters_type": "admob",
             "admob_banner": "ca-app-pub-1232395660176715/8504987429",
             "admob_inters": "ca-app-pub-1232395660176715/8914757139",
             "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
             "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "interval_inters": 10,
+            "interval_inters": 12,
             "//first_comment":  "jumlah iklan interstisial jika ditulis 10 maka yang tampil dibagi 2 - jadi yang tampil 5 "
         }
     ]
